@@ -39,7 +39,7 @@
     "git-cz": "^4.7.0",
     "jquery": "^3.5.1",
     "jspsych-react": "^0.3.0",
-    "semantic-release": "^17.2.3"
+    "semantic-release": "^19.0.3"
   },
   "devDependencies": {
     "jest": "^26.2.2",
